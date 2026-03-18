@@ -23,11 +23,6 @@ Expense-Tracker/
 │── expense_tracker.py
 │── expenses.csv (auto-created)
 │── README.md
-▶️ How to Run
-
-Clone this repository:
-
-git clone https://github.com/https://github.com/Prathmg/Expense-Tracker-CLI/Expense-Tracker.git
 
 Navigate to the folder:
 cd Expense-Tracker
